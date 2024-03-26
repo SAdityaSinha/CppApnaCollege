@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+#coedEditor
+.vscode
+
 # Compiled Object files
 *.slo
 *.lo
